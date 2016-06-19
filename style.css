@@ -1,0 +1,32 @@
+h1 {
+	font-family: "Overlock", sans-serif;
+	font-size: 5em;
+}
+h3 {
+	font-family: "Overlock", sans-serif;
+	font-size: 2em;
+	text-align: left;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+#container {
+	text-align: center;
+	border: 2px solid black;
+	border-top: 15px solid #542437;
+	margin-top: 40px;
+}
+#content-container {
+	text-align: left;
+	font-family: "Chivo", sans-serif;
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+ul li {
+	padding-bottom: 5px;
+}
+#h3-container {
+	text-align: center;
+	border-bottom: 2px dashed black;
+	padding-bottom: 30px;
+}
